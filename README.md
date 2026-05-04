@@ -1,15 +1,18 @@
 ## Hi there I'm Cristian De Avila 👋
 
 ## 💻 About Me  
-🎯 Learning frontend web development (HTML, CSS, JavaScript) 
+🎯 Frontend Developer (HTML5, CSS3, Javascript (ES2025), React19)
 
 🕹️ Geek and tech enthusiast   
 🎸 Music lover and guitarist  
 🧑‍🏫 English teacher  
 
-## 🚀 Technologies I'm Learning  
+## 🚀 Technologies
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
