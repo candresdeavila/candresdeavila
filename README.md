@@ -22,12 +22,9 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [candresdeavila/Dentalblue-agenda](https://github.com/candresdeavila/Dentalblue-agenda)<br>
-2. 💪 Opened PR [#8](undefined) in [candresdeavila/Dentalblue-agenda](https://github.com/candresdeavila/Dentalblue-agenda)<br>
-3. ⬆️ Pushed undefined commit(s) to [candresdeavila/Dentalblue-agenda](https://github.com/candresdeavila/Dentalblue-agenda)<br>
-4. 💪 Opened PR [#7](undefined) in [candresdeavila/Dentalblue-agenda](https://github.com/candresdeavila/Dentalblue-agenda)<br>
-5. ⬆️ Pushed undefined commit(s) to [candresdeavila/Dentalblue-agenda](https://github.com/candresdeavila/Dentalblue-agenda)<br>
+1. ⬆️ Pushed undefined commit(s) to [candresdeavila/candresdeavila](https://github.com/candresdeavila/candresdeavila)<br>
+2. ⬆️ Pushed undefined commit(s) to [candresdeavila/portfolio-JD](https://github.com/candresdeavila/portfolio-JD)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 12th, 2026, 1:29:55 PM
+Last Updated: Wednesday, May 13th, 2026, 1:50:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
